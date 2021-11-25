@@ -2,7 +2,7 @@
 nine
 8
 seven
-6
+six
 5
 4
 3
